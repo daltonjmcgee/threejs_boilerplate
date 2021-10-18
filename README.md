@@ -1,1 +1,1 @@
-# game
+# Three.JS Boilerplate
